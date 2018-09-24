@@ -1,2 +1,2 @@
-# JS-tasks
-JS learning tasks
+# JS-rle
+RLE (run-length encoding) algorithm.
